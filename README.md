@@ -15,10 +15,11 @@
 - Built a social network which died at the cold-start stage (and took down a ton of effort & money)
 
 ## Get in touch
-- 👀 I’m interested in metal programming, mobile apps and all things XR
-- I post on & off to YouTube [@TechWithPreet](https://www.youtube.com/@techwithpreet)
+- 👀 I’m interested in AI (who isn't), graphics programming, mobile apps and all things XR
+- 💻 I post on & off to YouTube [@TechWithPreet](https://www.youtube.com/@techwithpreet)
 - 🥁 Hip-hop music producer [@BigSmilezBeats](https://youtube.com/@bigsmilezbeats)
 - 📫 Reach me at preet [at] techwithpreet [.] com
+- [LinkedIn](https://www.linkedin.com/in/pkminhas/)
 
 <!---
 pkMinhas/pkMinhas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
