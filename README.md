@@ -17,9 +17,9 @@
 
 ## Get in touch
 - 👀 I’m interested in AI, graphics programming, mobile apps and all things XR
-- 💻 I post on & off to YouTube [@TechWithPreet](https://www.youtube.com/@techwithpreet)
+- 💻 I post on & off to YouTube [@WithPreetDotCom](https://www.youtube.com/@withpreet)
 - 🥁 Hip-hop music producer [@BigSmilezBeats](https://youtube.com/@bigsmilezbeats)
-- 📫 Reach me at preet [at] techwithpreet [.] com
+- 📫 Reach me at contact [at] withpreet [.] com
 - [LinkedIn](https://www.linkedin.com/in/pkminhas/)
 
 <!---
