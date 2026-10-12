@@ -56,9 +56,9 @@ I've designed and delivered solutions for railway transportation, airline reserv
 | [PDF Merge HQ](https://pdfmergehq.com) | Merge PDF files fast, free and securely |
 | [Doctor Money](https://www.withpreet.com/doctor-money) | Systematic, long-only Bitcoin trend-following algorithm with EMA crossovers and ATR-based risk management |
 
-## Open source 🎛️
+## Music focused open source 🎛️
 
-Most of my open-source work scratches my own itch as a music producer:
+My open-source work that scratched my own itch as a music producer:
 
 - [**SP404WavConvertor**](https://github.com/pkMinhas/SP404WavConvertor): converts WAVs to 16-bit / 48 kHz for the Roland SP-404 MK2
 - [**MaschineKitDuplicator**](https://github.com/pkMinhas/MaschineKitDuplicator): use Maschine expansion kits in other DAWs
