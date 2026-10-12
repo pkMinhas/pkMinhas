@@ -76,7 +76,7 @@ My open-source work that scratched my own itch as a music producer:
 ## Beyond code
 
 - ✍️ I write about software and craft on the [blog](https://www.withpreet.com/blog)
-- 🎥 YouTube: [@withpreet](https://www.youtube.com/@withpreetdotcom)
+- 🎥 YouTube: [@withpreetdotcom](https://www.youtube.com/@withpreetdotcom)
 - 🥁 Hip-hop producer: [@BigSmilezBeats](https://www.youtube.com/@BigSmilezBeats)
 - 🎨 Comics and art: [bigsmilez.art](https://bigsmilez.art)
 
